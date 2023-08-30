@@ -16,7 +16,7 @@ SPECIAL_CONSIDERATIONS—Special considerations for application
 ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
 
-###Before You Begin
+### Before You Begin
 
 ## IMPORTANT
 The instructions below are now updated to use Google Colab for this assignment instead of Jupyter Notebook. If you have already started this assignment using a Jupyter Notebook then you can continue to use Jupyter instead of Google Colab.
