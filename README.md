@@ -29,12 +29,8 @@ Inside your local git repository, create a directory for the Deep Learning Chall
 
 Push the above changes to GitHub.
 
-Files
-Download the following files to help you get started:
 
-Module 21 Challenge filesLinks to an external site.
-
-Instructions
+## Instructions
 Step 1: Preprocess the Data
 Using your knowledge of Pandas and scikit-learn’s StandardScaler(), you’ll need to preprocess the dataset. This step prepares you for Step 2, where you'll compile, train, and evaluate the neural network model.
 
@@ -57,7 +53,7 @@ Split the preprocessed data into a features array, X, and a target array, y. Use
 
 Scale the training and testing features datasets by creating a StandardScaler instance, fitting it to the training data, then using the transform function.
 
-Step 2: Compile, Train, and Evaluate the Model
+## Step 2: Compile, Train, and Evaluate the Model
 Using your knowledge of TensorFlow, you’ll design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup-funded organization will be successful based on the features in the dataset. You’ll need to think about how many inputs there are before determining the number of neurons and layers in your model. Once you’ve completed that step, you’ll compile, train, and evaluate your binary classification model to calculate the model’s loss and accuracy.
 
 Continue using the file in Google Colab in which you performed the preprocessing steps from Step 1.
